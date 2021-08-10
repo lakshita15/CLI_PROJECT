@@ -1,4 +1,12 @@
 # CLI_PROJECT
+## 📂TAKES USER DETAILS TO INTERACT AND HAVE A FUN TIME😊 
+## Various Features Include:-👀  
+<code>1.PLAY QUIZ</code>    
+<code>2.Add ToDo</code>  
+<code>2.Delete ToDo</code>  
+<code>3.Update ToDo</code>  
+<code>4.Get IP Address </code>  
+<code>5.Get Weather Updates For A Week </code>  
 
 ![image](https://user-images.githubusercontent.com/66481666/128935639-ed7cc6b5-87c6-43d6-b8c8-14a925b9551e.png)  
 
@@ -13,6 +21,5 @@
 ## 📂Makes A New File When You Delete A Todo.    
 
 ![2021-08-11 02_36_23-updatedTodo txt - FUN-WITH-CLI - Visual Studio Code](https://user-images.githubusercontent.com/66481666/128935821-75ab8961-cdf8-48ce-996d-33fb5fae3c28.png)  
-## 📂Makes A .json File For Storing The Weather Updates For All 7 Days .     
-
-
+## 📂Makes A .json File For Storing The Weather Updates For All 7 Days .    
+![2021-08-11 02_36_46-weather json - FUN-WITH-CLI - Visual Studio Code](https://user-images.githubusercontent.com/66481666/128936688-f2802aae-1d0a-4b76-99b4-939efec3d431.png)
