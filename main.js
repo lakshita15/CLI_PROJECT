@@ -4,10 +4,11 @@ var Address = require("public-ip");
 var weather = require("weather-js");
 let fs = require("fs");
 const hyperlinker = require('hyperlinker');
-
+const figlet = require('figlet')
 var score = 0;
 let count = 1;
 
+printname();
 // ============================================= ADD YOUR NAME ========================================================//;
 var userName = readlineSync.question(
   chalk.greenBright.bold("What is your Name?\n")
@@ -286,6 +287,13 @@ console.log('Linkedin :--', 'https://www.linkedin.com/in/lakshita-m-a1935b196/ \
 console.log('My Website :--', 'https://lakshita15.github.io/ \n') 
 
 console.log("Made With Love ❤️"+"  "+"  By Lakshita Mahajan");
+function printname(){
+  console.log(`${chalk.green(
+    figlet.textSync(' FUN-WITH-CLI ', {
+        horizontalLayout: 'full',
+    })
+)}\n`)
+}
 // //=====================================================================================================//
 //                                             /* END */
 // //=====================================================================================================//
