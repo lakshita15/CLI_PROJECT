@@ -1,0 +1,236 @@
+[
+  {
+    "location": {
+      "name": "Delhi, India",
+      "lat": "28.643",
+      "long": "77.115",
+      "timezone": "5.5",
+      "alert": "",
+      "degreetype": "F",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "84",
+      "skycode": "29",
+      "skytext": "Partly Cloudy",
+      "date": "2021-08-11",
+      "observationtime": "02:00:00",
+      "observationpoint": "Delhi",
+      "feelslike": "101",
+      "humidity": "94",
+      "winddisplay": "7 mph West",
+      "day": "Wednesday",
+      "shortday": "Wed",
+      "windspeed": "7 mph",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/29.gif"
+    },
+    "forecast": [
+      {
+        "low": "82",
+        "high": "95",
+        "skycodeday": "31",
+        "skytextday": "Mostly Clear",
+        "date": "2021-08-10",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": ""
+      },
+      {
+        "low": "81",
+        "high": "94",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2021-08-11",
+        "day": "Wednesday",
+        "shortday": "Wed",
+        "precip": "0"
+      },
+      {
+        "low": "82",
+        "high": "94",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2021-08-12",
+        "day": "Thursday",
+        "shortday": "Thu",
+        "precip": "0"
+      },
+      {
+        "low": "82",
+        "high": "94",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2021-08-13",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": "0"
+      },
+      {
+        "low": "81",
+        "high": "94",
+        "skycodeday": "34",
+        "skytextday": "Mostly Sunny",
+        "date": "2021-08-14",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "0"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "New Delhi, India",
+      "lat": "28.632",
+      "long": "77.219",
+      "timezone": "5.5",
+      "alert": "",
+      "degreetype": "F",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "84",
+      "skycode": "29",
+      "skytext": "Partly Cloudy",
+      "date": "2021-08-11",
+      "observationtime": "01:30:00",
+      "observationpoint": "New Delhi, India",
+      "feelslike": "101",
+      "humidity": "94",
+      "winddisplay": "6 mph West",
+      "day": "Wednesday",
+      "shortday": "Wed",
+      "windspeed": "6 mph",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/29.gif"
+    },
+    "forecast": [
+      {
+        "low": "83",
+        "high": "96",
+        "skycodeday": "31",
+        "skytextday": "Mostly Clear",
+        "date": "2021-08-10",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": ""
+      },
+      {
+        "low": "82",
+        "high": "96",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2021-08-11",
+        "day": "Wednesday",
+        "shortday": "Wed",
+        "precip": "0"
+      },
+      {
+        "low": "82",
+        "high": "96",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2021-08-12",
+        "day": "Thursday",
+        "shortday": "Thu",
+        "precip": "0"
+      },
+      {
+        "low": "83",
+        "high": "96",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2021-08-13",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": "0"
+      },
+      {
+        "low": "80",
+        "high": "96",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2021-08-14",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "0"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Delhi, India",
+      "lat": "28.652",
+      "long": "77.231",
+      "timezone": "5.5",
+      "alert": "",
+      "degreetype": "F",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "84",
+      "skycode": "29",
+      "skytext": "Partly Cloudy",
+      "date": "2021-08-11",
+      "observationtime": "02:00:00",
+      "observationpoint": "Delhi, India",
+      "feelslike": "101",
+      "humidity": "94",
+      "winddisplay": "7 mph West",
+      "day": "Wednesday",
+      "shortday": "Wed",
+      "windspeed": "7 mph",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/29.gif"
+    },
+    "forecast": [
+      {
+        "low": "83",
+        "high": "96",
+        "skycodeday": "31",
+        "skytextday": "Mostly Clear",
+        "date": "2021-08-10",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": ""
+      },
+      {
+        "low": "82",
+        "high": "96",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2021-08-11",
+        "day": "Wednesday",
+        "shortday": "Wed",
+        "precip": "0"
+      },
+      {
+        "low": "82",
+        "high": "96",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2021-08-12",
+        "day": "Thursday",
+        "shortday": "Thu",
+        "precip": "0"
+      },
+      {
+        "low": "83",
+        "high": "96",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2021-08-13",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": "0"
+      },
+      {
+        "low": "80",
+        "high": "96",
+        "skycodeday": "34",
+        "skytextday": "Mostly Sunny",
+        "date": "2021-08-14",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "0"
+      }
+    ]
+  }
+]
