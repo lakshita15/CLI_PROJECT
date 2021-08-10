@@ -1,5 +1,7 @@
 # CLI_PROJECT
 ## Made With Love ❤ By Lakshita.
+![image](https://user-images.githubusercontent.com/66481666/128939967-d48eddad-b1a8-459d-96c3-84d216a31c80.png)
+
 ## 📂TAKES USER DETAILS TO INTERACT AND HAVE A FUN TIME😊 
 ## Various Features Include:-👀  
 <code>1.PLAY QUIZ</code>    
